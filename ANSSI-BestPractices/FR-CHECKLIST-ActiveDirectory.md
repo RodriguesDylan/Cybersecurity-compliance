@@ -4,6 +4,12 @@ Cette checklist permet de répertorier les mesures présentes dans le guide de l
 
 Lien : https://cyber.gouv.fr/publications/recommandations-pour-ladministration-securisee-des-si-reposant-sur-ad
 
+Quelques cas d'usages d'un tel outil :
+
+- Audit de l'infrastructure Active Directory,
+- Sécurisation de l'infrastructure Active Directory,
+- Evaluation de la maturité de l'infrastructrue Active Directory.
+- 
 # Checklist
 
 | ☐   | R1 Mettre en œuvre un modèle de gestion des accès privilégiés |

@@ -1,3 +1,11 @@
+# FR - Checklist ANSSI sur le sécurité Active Directory
+
+Cette checklist permet de répertorier les mesures présentes dans le guide de l'ANSSI relatif aux recommantions sur la sécurisation d'une infrastructure Active Directory.
+
+Lien : https://cyber.gouv.fr/publications/recommandations-pour-ladministration-securisee-des-si-reposant-sur-ad
+
+# Checklist
+
 | ☐   | R1 Mettre en œuvre un modèle de gestion des accès privilégiés |
 | --- | --- |
 | ☐   | R2 Protéger chaque niveau du modèle de manière proportionnée |

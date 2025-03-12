@@ -10,6 +10,18 @@ Quelques cas d'usages d'un tel outil :
 - Sécurisation de l'infrastructure Active Directory,
 - Evaluation de la maturité de l'infrastructrue Active Directory.
 
+---
+
+Les recommandations sont numérotées de R1 à R89 et peuvent comporter un **-** ou un **+**.
+
+**R** signifie recommandation à l'état de l'art.
+
+**R-** signifie recommandation alternative de premier niveau.
+
+**R+** signifie recommandation renforcée.
+
+---
+
 # Checklist
 
 | ☐   | R1 Mettre en œuvre un modèle de gestion des accès privilégiés |
